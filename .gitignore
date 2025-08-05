@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Data files (if not intended for version control)
+# data/
+# *.csv
+# *.json
+
+# Specific to Jupyter
+# Jupyter runtime files
+.jupyter/
+# Jupyter server logs
+jupyter_notebook_config.py
+jupyter_server_config.py
